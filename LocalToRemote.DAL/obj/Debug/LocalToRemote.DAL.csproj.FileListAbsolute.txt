@@ -1,0 +1,2 @@
+D:\NY Developer\DailyChallenge3\LocalToRemote.DAL\obj\Debug\LocalToRemote.DAL.csproj.AssemblyReference.cache
+D:\NY Developer\DailyChallenge3\LocalToRemote.DAL\obj\Debug\LocalToRemote.DAL.csproj.CoreCompileInputs.cache
